@@ -2,7 +2,7 @@
 
 ## Background
 
-Data is more powerful when we share it with others! I've taken what I've learned about HTML and CSS to create a dashboard showing off the analysis I've done. I've created a visualization dashboard website using visualizations created in my repo: python-api-challenge. Specifically, I've taken plots made from WeatherPy within this repo that used a cities CSV to create scatterplots of lattitude vs. specific weather attributes. This CSV and PNGs of the plots can be found within this repo inside of the Resources folder.
+Data is more powerful when we share it with others! I've taken what I've learned about HTML and CSS to create a dashboard showing off the analysis I've done. I've created a visualization dashboard website using visualizations created in my repo: python-api-challenge. Specifically, I've taken plots made from WeatherPy within this repo that used a cities CSV to create scatterplots of lattitude vs. specific weather attributes. The CSV and PNGs of the plots can be found within this repo inside of the Resources folder.
 
 
 ## Outline of Website
