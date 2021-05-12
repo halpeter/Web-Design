@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+# Web-Design
 
 ## Background
 
@@ -15,23 +15,23 @@ This website consists of 7 pages total, including:
 * A landing page which contains:
   * An explanation of the project.
   * Links to each visualizations page. There is a sidebar containing preview images of each plot, and clicking an image will take the user to that visualization.
-  * Code for this page can be found at index.html
+  * Code for this page can be found at [index.html](index.html)
 
 * Four visualization pages, each containing:
   * A descriptive title and heading tag.
   * The plot/visualization itself for the selected comparison.
   * A paragraph describing the plot and its significance.
   * There is a sidebar containing preview images of each plot, and clicking an image will take the user to that visualization.
-  * Code for these pages can be found at cloudiness.html, humidity.html, temperature.html, and windspeed.html
+  * Code for these pages can be found at [cloudiness.html](cloudiness.html), [humidity.html](humidity.html), [temperature.html](temperature.html), and [windspeed.html](windspeed.html).
 
 * A comparison page that contains:
   * All of the visualizations on the same page so the user can easily visually compare them.
   * The screen updates based on the users screen size, they will see two images in a row on larger screens and one image per row on smaller screens.
-  * Code for this page can be found at comparison.html
+  * Code for this page can be found at [comparison.html](comparison.html)
 
 * A data page that contains:
   * A responsive table containing the data used in the visualizations.
-  * The table was made from converting the csv file to an html file in python jupyter notebook (found at Resources/csv_conversion.ipynb)
+  * The table was made from converting the csv file to an html file in python jupyter notebook (found [here](Resources/csv_conversion.ipynb))
   * Code for this page can be found at data.html
 
 This website has a navigation menu at the top of every page that:
